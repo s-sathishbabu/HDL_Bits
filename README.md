@@ -16,6 +16,9 @@ This repository contains my **Verilog HDL solutions** for HDLBits exercises, sta
 ### Vectors
 * `01_Vectors` - Vectors
 * `02_Vectors_in_more_detail` - Vectors in more detail
+* `03_Vector_part_select` - Vector part select
+* `04_Bitwise_operators` - Bitwise operators
+* `05_Four-input_gates` - Four-input gates
 
 
 ## 🎯 Purpose
