@@ -20,8 +20,9 @@ This repository contains my **Verilog HDL solutions** for HDLBits exercises, sta
 * `04_Bitwise_operators` - Bitwise operators
 * `05_Four-input_gates` - Four-input gates
 * `06_Vector_concatenation_operator` - Vector concatenation operator
-* `07_Vector_reversal_1` -Vector reversal 1
-
+* `07_Vector_reversal_1` - Vector reversal 1
+* `08_Replication_operator` - Replication operator
+* `09_More_replication` - More replication
 ## 🎯 Purpose
 
 To practice **Verilog, RTL design, and digital logic** through HDLBits problems and build a strong foundation in hardware design.
