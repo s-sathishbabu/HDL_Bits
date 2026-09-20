@@ -23,6 +23,11 @@ This repository contains my **Verilog HDL solutions** for HDLBits exercises, sta
 * `07_Vector_reversal_1` - Vector reversal 1
 * `08_Replication_operator` - Replication operator
 * `09_More_replication` - More replication
+
+### Hierarchy
+* `01_Modules` - Modules
+* `02_Connecting_ports_by_position` - Connecting ports by position
+
 ## 🎯 Purpose
 
 To practice **Verilog, RTL design, and digital logic** through HDLBits problems and build a strong foundation in hardware design.
