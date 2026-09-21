@@ -27,7 +27,8 @@ This repository contains my **Verilog HDL solutions** for HDLBits exercises, sta
 ### Hierarchy
 * `01_Modules` - Modules
 * `02_Connecting_ports_by_position` - Connecting ports by position
-
+*  `03_Connecting_ports_by_name` - Connecting ports by name
+* `04_Three_modules` - Three modules
 ## 🎯 Purpose
 
 To practice **Verilog, RTL design, and digital logic** through HDLBits problems and build a strong foundation in hardware design.
