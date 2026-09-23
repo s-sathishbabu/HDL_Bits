@@ -31,6 +31,9 @@ This repository contains my **Verilog HDL solutions** for HDLBits exercises, sta
 * `04_Three_modules` - Three modules
 * `05_Modules_and_vectors` - Modules and vectors
 * `06_Adder_1` - Adder 1
+* `07_Adder_2` - Adder 2
+* `08_Carry_select_adder` - Carry-select adder
+
 
 ## 🎯 Purpose
 
