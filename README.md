@@ -35,6 +35,10 @@ This repository contains my **Verilog HDL solutions** for HDLBits exercises, sta
 * `08_Carry_select_adder` - Carry-select adder
 * `09_Adder_subtractor` - Adder-subtractor
 
+### Procedures
+* `01_Always_blocks_combinational` - Always blocks (combinational)
+
+
 ## 🎯 Purpose
 
 To practice **Verilog, RTL design, and digital logic** through HDLBits problems and build a strong foundation in hardware design.
