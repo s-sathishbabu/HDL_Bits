@@ -37,7 +37,7 @@ This repository contains my **Verilog HDL solutions** for HDLBits exercises, sta
 
 ### Procedures
 * `01_Always_blocks_combinational` - Always blocks (combinational)
-
+* `02_Always_blocks_clocked` - Always blocks (clocked)
 
 ## 🎯 Purpose
 
