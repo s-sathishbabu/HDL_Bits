@@ -38,7 +38,9 @@ This repository contains my **Verilog HDL solutions** for HDLBits exercises, sta
 ### Procedures
 * `01_Always_blocks_combinational` - Always blocks (combinational)
 * `02_Always_blocks_clocked` - Always blocks (clocked)
-* `02_If_statement` - If statement
+* `03_If_statement` - If statement
+* `04_If_statement_latches` - If statement latches
+
 
 ## 🎯 Purpose
 
