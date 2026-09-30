@@ -41,6 +41,7 @@ This repository contains my **Verilog HDL solutions** for HDLBits exercises, sta
 * `03_If_statement` - If statement
 * `04_If_statement_latches` - If statement latches
 * `05_Case_statement` - Case statement
+* `06_Priority_encoder` - Priority encoder
 
 
 ## 🎯 Purpose
