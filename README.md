@@ -43,8 +43,9 @@ This repository contains my **Verilog HDL solutions** for HDLBits exercises, sta
 * `05_Case_statement` - Case statement
 * `06_Priority_encoder` - Priority encoder
 * `07_Priority_encoder_with_casez` - Priority encoder with casez
+* `08_Avoiding_latches` - Avoiding latches
 
-
+### More Verilog Features
 
 ## 🎯 Purpose
 
