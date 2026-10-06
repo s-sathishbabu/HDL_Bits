@@ -46,6 +46,9 @@ This repository contains my **Verilog HDL solutions** for HDLBits exercises, sta
 * `08_Avoiding_latches` - Avoiding latches
 
 ### More Verilog Features
+* `01_Conditional_ternary_operator` - Conditional ternary operator
+* `02_Reduction_operators` - Reduction operators
+* `03_Reduction_Even_wider_gates` - Reduction Even wider gates
 
 ## 🎯 Purpose
 
