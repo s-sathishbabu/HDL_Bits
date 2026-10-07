@@ -49,7 +49,7 @@ This repository contains my **Verilog HDL solutions** for HDLBits exercises, sta
 * `01_Conditional_ternary_operator` - Conditional ternary operator
 * `02_Reduction_operators` - Reduction operators
 * `03_Reduction_Even_wider_gates` - Reduction Even wider gates
-
+* `04_Combinational_for-loop_Vector_reversal_2` - Combinational for-loop: Vector reversal 2
 ## 🎯 Purpose
 
 To practice **Verilog, RTL design, and digital logic** through HDLBits problems and build a strong foundation in hardware design.
