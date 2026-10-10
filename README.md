@@ -2,6 +2,7 @@
 
 This repository contains my **Verilog HDL solutions** for HDLBits exercises, starting with basic digital logic and RTL concepts.
 
+# 📂Verilog Language
 ## 📂 Solutions
 ### Basics
 * `01_simple_wire` - Simple Wire
@@ -52,6 +53,13 @@ This repository contains my **Verilog HDL solutions** for HDLBits exercises, sta
 * `04_Combinational_for-loop_Vector_reversal_2` - Combinational for-loop: Vector reversal 2
 * `05_Combinational_for-loop_255-bit_population_count` - Combinational for-loop: 255-bit population count
 `06_Generate_for-loop_100-bit_binary_adder_2` - Generate for-loop: 100-bit binary adder 2
+
+
+# 📂Combinational Logic
+## 📂 Basic Gates
+* `01_Wire` - Wire
+
+
 
 ## 🎯 Purpose
 
