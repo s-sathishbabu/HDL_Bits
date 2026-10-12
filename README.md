@@ -58,8 +58,9 @@ This repository contains my **Verilog HDL solutions** for HDLBits exercises, sta
 # 📂Combinational Logic
 ## 📂 Basic Gates
 * `01_Wire` - Wire
-
-
+* `01_Wire` - Wire
+* `02_GND` - GND
+* `03_NOR` - NOR
 
 ## 🎯 Purpose
 
